@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anish Singh(Patel)</h1>
-<p style="background-image: url('https://shorturl.at/T1Mkm');">
 <h3 align="center">A passionate ₿lockchain🌐⛓️Developer from India.</h3>
 
 - 🔭 I’m currently working on ["Employee Live Work Monitoring System" dApps](https://github.com/anishsingh90/Employee-Live-Work-Monitoring-System-dApps-)
@@ -33,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsingh90&show_icons=true&locale=en" alt="anishsingh90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh90&" alt="anishsingh90" /></p>
-</p>

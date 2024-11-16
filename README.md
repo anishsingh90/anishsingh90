@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Singh(Patel👑🦅)</h1>
+<h1 align="center">Hi 👋, I'm Anish Singh(Patel)</h1>
 <h3 align="center">A passionate ₿lockchain🌐⛓️Developer from India.</h3>
 
 - 🔭 I’m currently working on ["Employee Live Work Monitoring System" dApps](https://github.com/anishsingh90/Employee-Live-Work-Monitoring-System-dApps-)

@@ -20,7 +20,7 @@
 <p>
     <img align="right" src="https://github.com/user-attachments/assets/3bb17036-e621-45f7-9553-ff359fb97d60" 
          alt="GIF Image" 
-         width="600" 
+         width="550" 
          height="280">
 </p>
 <br>

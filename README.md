@@ -17,6 +17,15 @@
 
 - ⚡ Fun fact **I think I am funny😎**
 
+<p>
+    <img align="right" src="https://github.com/user-attachments/assets/57054edc-f446-4955-9922-66bd0c79ab1a" 
+         alt="GIF Image" 
+         width="500" 
+         height="300">
+</p>
+<br>
+
+
 <h3 align="left">Connect🤝 with me:</h3>
 <p align="left">
 <a href="https://x.com/AnishSingh9454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anishsingh9454" height="30" width="40" /></a>

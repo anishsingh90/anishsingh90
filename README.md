@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I think I am funny😎**
 
 <p>
-    <img align="right" src="https://github.com/user-attachments/assets/3bb17036-e621-45f7-9553-ff359fb97d60" 
+    <img align="right" src="https://github.com/user-attachments/assets/f34ac3f6-867a-4979-858c-d915ec6f1f52" 
          alt="GIF Image" 
          width="550" 
          height="280">

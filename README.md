@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsingh90&show_icons=true&locale=en" alt="anishsingh90" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh90&" alt="anishsingh90" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh90&show_icons=true&locale=en&layout=compact" alt="anishsingh90" /></p>

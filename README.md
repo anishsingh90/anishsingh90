@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working💼 on <b>'Employee Live Work Monitoring System dApps'</b> [Visit](https://github.com/anishsingh90/Employee-Live-Work-Monitoring-System-dApps-)
 
-- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js, ｡🇯‌🇸‌Node.js, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, and 🥽Metaverse etc.**
+- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js,‌ Node.js, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, and 🥽Metaverse etc.**
 
 - 👯 I’m looking to collaborate🤜🤛 on **₿lockchain ₿ased Projects**
 

@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝒾  𝓽𝒽𝑒𝓻𝑒 👋, 𝓙'𝓂 Anish Singh Patel</h1>
 <h2 align="center">A passionate👨🏼‍💻 ₿lockchain🌐⛓️𝐃eveloper from India.</h2>
 
-- 🔭 I’m currently working💼 on <b>'Employee Live Work Monitoring System dApps'</b> [Visit](https://github.com/anishsingh90/Employee-Live-Work-Monitoring-System-dApps-)
+- 🔭 I’m currently working💼 on <b>'Freelancing Blockchain and NFTs Based Projects'</b>
 
 - 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js,‌ Node.js, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, and 🥽Metaverse etc.**
 

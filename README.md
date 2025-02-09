@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anishraaz90@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/3i9r8l)
+- 📄 Know about my experiences [Resume](https://shorturl.at/Rwg8L)
 
 - ⚡ Fun fact **I think I am funny😎**
 

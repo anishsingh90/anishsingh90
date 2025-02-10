@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝒾  𝓽𝒽𝑒𝓻𝑒 👋, 𝓙'𝓂 Anish Singh Patel</h1>
+<h1 align="center">𝓗𝒾  𝓽𝒽𝑒𝓻𝑒 👋, 𝓙'𝓂 Anish Kumar</h1>
 <h2 align="center">A passionate👨🏼‍💻 ₿lockchain🌐⛓️𝐃eveloper from India.</h2> 
 
 - 🔭 I’m currently working💼 on <b>'Freelancing Blockchain and NFTs Based Projects'</b>

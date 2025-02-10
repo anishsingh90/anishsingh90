@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help 🤝 with <b>'Employee Live Work Monitoring System dApps'</b> [Contribute](https://github.com/anishsingh90/Employee-Live-Work-Monitoring-System-dApps-)
 
-- 💬 Ask me about **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, 🔐dApps, 🔑Cryptography etc.**
+- 💬 Ask me about **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, 🔐dApps, 🔑Cryptography, 🥮NFTs, 🔐Hyperledger Fabric, 🥽Metaverse, DeFi, The Graph, Cryptography, ERC-721, and Hyperledger etc.**
 
 - 📫 How to reach me **anishraaz90@gmail.com**
 

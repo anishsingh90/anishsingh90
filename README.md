@@ -1,9 +1,9 @@
 <h1 align="center">𝓗𝒾  𝓽𝒽𝑒𝓻𝑒 👋, 𝓙'𝓂 Anish Kumar</h1>
-<h2 align="center">A passionate👨🏼‍💻 ₿lockchain🌐⛓️ | MERN Stack 𝐃eveloper from India.</h2> 
+<h2 align="center">A passionate👨🏼‍💻 ₿lockchain🌐⛓️ | MERN Stack💻 𝐃eveloper from India.</h2> 
 
 - 🔭 I’m currently working💼 on <b>'Freelancing Blockchain and NFTs Based Projects'</b>
 
-- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js,‌ Node.js, Express.js, MySQL, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, 🥽Metaverse, DeFi, The Graph, Cryptography, ERC-721, Hyperledger, Tokonocs, Oracle, Infura, Alchemy, Staking etc.**
+- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js,‌ Node.js, Express.js, MySQL🐬, MongoDB🍃, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, 🥽Metaverse, DeFi, The Graph, Cryptography, ERC-721, Hyperledger, Tokonocs, Oracle, Infura, Alchemy, Staking etc.**
 
 - 👯 I’m looking to collaborate🤜🤛 on **₿lockchain ₿ased Projects**
 

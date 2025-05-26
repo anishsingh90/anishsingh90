@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working💼 on <b>'Freelancing Blockchain and NFTs Based Projects'</b>
 
-- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, 🌐Web3.js, ⚛️React.js,‌ Node.js, Express.js, MySQL🐬, MongoDB🍃, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, 🥽Metaverse, DeFi, The Graph, Cryptography, ERC-721, Hyperledger, Tokonocs, Oracle, Infura, Alchemy, Staking etc.**
+- 🌱 I’m currently learning **⛓️ ₿lockchain, 🔗Solidity, /\/Next.js, 🌐Web3.js, ⚛️React.js,‌ Node.js, Express.js, MySQL🐬, MongoDB🍃, 🔐dApps, 🥮NFTs, 🔐Hyperledger Fabric, 🥽Metaverse, DeFi, The Graph, Cryptography, ERC-721, Hyperledger, Tokonocs, Oracle, Infura, Alchemy, Staking etc.**
 
 - 👯 I’m looking to collaborate🤜🤛 on **₿lockchain ₿ased Projects**
 
